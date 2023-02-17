@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+  }
+.container {
+    border: 1px solid #dbdbdb;
+    width: 960px;
+    padding:10px;
+	display: flex;
+    margin: auto;
+
+}
+
+/* {
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr; chia làm 4 cột
+    grid-column-gap: 20px; khoảng cách giữa các cột
+    grid-row-gap: 20px; khoảng cách giữa các hàng cột
+} */
+
+.name{
+    background-color: yellow;
+}
+.cackynang{
+    background-color: yellow;
+}
+.hocvan{
+    background-color: yellow;
+}
+.class{
+    padding: 0 10px;
+    border: 1px solid #dbdb;
+    width: 320px;
+}
+.class1{
+    padding: 0 10px;
+    border: 1px solid #dbdb;
+    width: 320px;
+}
+.class2{
+    padding: 0 10px;
+    width: 320px;
+    border: 1px solid #dbdbdb;
+}
+h2{
+    padding: 10px;
+    border-top: 5px solid grey;
+}
+.mtng{
+    border-top: 5px solid grey;
+}
